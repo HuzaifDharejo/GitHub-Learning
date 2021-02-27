@@ -1,4 +1,3 @@
 # GitHub-Learning
 
-This project is just for learning GitHub
-In Progress
+#h1 Mota Ghum
